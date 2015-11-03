@@ -1,0 +1,1 @@
+document.write("\x3cp\x3eHello, world!\x3c/p\x3e");
